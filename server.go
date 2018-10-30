@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/cybozu-go/cmd"
+	cmd "github.com/m4i/well"
 	"github.com/cybozu-go/log"
 	"github.com/cybozu-go/netutil"
 	"golang.org/x/net/proxy"

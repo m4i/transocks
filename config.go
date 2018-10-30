@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/cybozu-go/cmd"
+	cmd "github.com/m4i/well"
 	"github.com/cybozu-go/log"
 )
 

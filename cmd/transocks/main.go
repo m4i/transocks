@@ -7,9 +7,9 @@ import (
 	"net/url"
 
 	"github.com/BurntSushi/toml"
-	"github.com/cybozu-go/cmd"
+	cmd "github.com/m4i/well"
 	"github.com/cybozu-go/log"
-	"github.com/cybozu-go/transocks"
+	"github.com/m4i/transocks"
 )
 
 type tomlConfig struct {
